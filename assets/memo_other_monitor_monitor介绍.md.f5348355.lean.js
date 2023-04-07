@@ -1,0 +1,1 @@
+import{_ as a,c as i,o as t,Q as e}from"./chunks/framework.7addaa9c.js";const b=JSON.parse('{"title":"埋点","description":"","frontmatter":{},"headers":[],"relativePath":"memo/other/monitor/monitor介绍.md"}'),l={name:"memo/other/monitor/monitor介绍.md"},o=e("",29),r=[o];function s(c,n,u,p,h,d){return t(),i("div",null,r)}const v=a(l,[["render",s]]);export{b as __pageData,v as default};
