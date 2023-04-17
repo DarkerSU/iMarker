@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as a,Q as t}from"./chunks/framework.7addaa9c.js";const b=JSON.parse('{"title":"文档市场","description":"","frontmatter":{},"headers":[],"relativePath":"marker/doc.md"}'),l={name:"marker/doc.md"},i=t("",59),n=[i];function h(o,s,p,u,c,d){return a(),r("div",null,n)}const g=e(l,[["render",h]]);export{b as __pageData,g as default};
