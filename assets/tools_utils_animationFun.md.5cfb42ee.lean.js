@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,Q as l}from"./chunks/framework.7addaa9c.js";const C=JSON.parse('{"title":"高阶函数--封装动画函数","description":"","frontmatter":{},"headers":[],"relativePath":"tools/utils/animationFun.md"}'),o={name:"tools/utils/animationFun.md"},p=l("",5),t=[p];function e(c,r,y,F,i,D){return a(),n("div",null,t)}const f=s(o,[["render",e]]);export{C as __pageData,f as default};
