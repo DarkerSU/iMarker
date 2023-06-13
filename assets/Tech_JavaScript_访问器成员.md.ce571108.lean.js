@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,Q as l}from"./chunks/framework.7addaa9c.js";const A=JSON.parse('{"title":"访问器成员的使用","description":"","frontmatter":{},"headers":[],"relativePath":"Tech/JavaScript/访问器成员.md"}'),o={name:"Tech/JavaScript/访问器成员.md"},p=l("",9),e=[p];function t(c,r,y,D,F,i){return n(),a("div",null,e)}const d=s(o,[["render",t]]);export{A as __pageData,d as default};
