@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as e,Q as n}from"./chunks/framework.7addaa9c.js";const _=JSON.parse('{"title":"d.ts 声明文件","description":"","frontmatter":{},"headers":[],"relativePath":"memo/typescript/声明文件.md"}'),l={name:"memo/typescript/声明文件.md"},p=n("",4),o=[p];function t(c,r,C,d,i,A){return e(),a("div",null,o)}const D=s(l,[["render",t]]);export{_ as __pageData,D as default};

@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,Q as l}from"./chunks/framework.7addaa9c.js";const d=JSON.parse('{"title":"拖拽生成html代码","description":"","frontmatter":{},"headers":[],"relativePath":"memo/other/拖拽生成html.md"}'),o={name:"memo/other/拖拽生成html.md"},p=l("",10),e=[p];function t(c,r,D,F,y,A){return n(),a("div",null,e)}const i=s(o,[["render",t]]);export{d as __pageData,i as default};

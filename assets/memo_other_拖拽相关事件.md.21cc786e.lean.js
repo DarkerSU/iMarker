@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,Q as l}from"./chunks/framework.7addaa9c.js";const i=JSON.parse('{"title":"拖拽相关事件详解","description":"","frontmatter":{},"headers":[],"relativePath":"memo/other/拖拽相关事件.md"}'),p={name:"memo/other/拖拽相关事件.md"},o=l("",8),t=[o];function e(c,r,D,F,y,C){return a(),n("div",null,t)}const d=s(p,[["render",e]]);export{i as __pageData,d as default};

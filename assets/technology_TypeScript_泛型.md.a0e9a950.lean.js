@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,Q as l}from"./chunks/framework.7addaa9c.js";const i=JSON.parse('{"title":"泛型","description":"","frontmatter":{},"headers":[],"relativePath":"technology/TypeScript/泛型.md"}'),p={name:"technology/TypeScript/泛型.md"},o=l("",64),e=[o];function t(c,r,y,F,D,C){return n(),a("div",null,e)}const B=s(p,[["render",t]]);export{i as __pageData,B as default};
