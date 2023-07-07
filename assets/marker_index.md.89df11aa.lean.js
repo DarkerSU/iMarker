@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as t,Q as a}from"./chunks/framework.7addaa9c.js";const _=JSON.parse('{"title":"文档快链","description":"","frontmatter":{},"headers":[],"relativePath":"marker/index.md"}'),n={name:"marker/index.md"},o=a("",2),h=[o];function l(s,f,d,i,p,c){return t(),r("div",null,h)}const b=e(n,[["render",l]]);export{_ as __pageData,b as default};
